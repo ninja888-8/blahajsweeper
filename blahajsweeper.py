@@ -1,7 +1,6 @@
 """
 blahajsweeper.py - Main program
-Eric Ning
-December 30th, 2024
+Jan 30th, 2024
 Description: runs a blahaj themed/designed minesweeper game!
 """
 
@@ -36,6 +35,7 @@ class Game:
                 self.main_menu_events()
                 self.draw_menu()
                 self.generated_board = False
+                self.end.win = False
             elif self.state == "difficulty":
                 self.difficulty_events()
                 self.draw_difficulty()
