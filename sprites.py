@@ -1,6 +1,6 @@
 """
 sprites.py - Stores classes for different objects
-Jan 28th, 2024
+Jan 28th, 2025
 """
 import random
 import pygame
