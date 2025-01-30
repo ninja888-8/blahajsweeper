@@ -1,7 +1,6 @@
 """
 sprites.py - Stores classes for different objects
-Eric Ning
-December 30th, 2024
+Jan 28th, 2024
 """
 import random
 import pygame
