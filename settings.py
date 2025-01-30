@@ -1,6 +1,5 @@
 """
 settings.py - Stores the configuration of the minesweeper game
-Eric Ning
 December 30th, 2024
 """
 
